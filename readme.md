@@ -1,0 +1,1 @@
+php -dauto_prepend_file=main.php -a
